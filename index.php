@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Forms Lab</title>
 </head>
 
 <body>
 
     <main>
-        <h3>PHP Forms Lab</h3>
+        <h3 class="banner">PHP Forms Lab</h3>
 
         <p>Created via azure</p>
 
