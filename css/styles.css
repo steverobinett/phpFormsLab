@@ -2,10 +2,16 @@
     color:red;
     font-size: 2em;
     text-align: center;
-    margin-left: 33%;
+    /* margin-left: 33%; */
 }
 
 form{
-    text-align: center;
-    margin-left: 33%;
+    /* text-align: center;    */
+    margin-left: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+li {
+    list-style: none;
 }
